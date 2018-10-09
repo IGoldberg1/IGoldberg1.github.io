@@ -1,7 +1,9 @@
 h1 {
     text-decoration: underline;
 
-    color: slateblue;
+    color: blue;
+
+    font-family: 'K2D', sans-serif;
 }
 h2 {
 color: slategray;
