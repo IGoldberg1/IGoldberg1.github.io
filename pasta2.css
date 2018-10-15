@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2  {
+    text-align: center;
+    color: black;
+}
+
+p{
+    text-align: center;
+    color: black;
+}
+
+th {
+    text-align: center;
+}
+
+.jumbotron {
+    background-image: url(pasta.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body {
+    background-color: pink;
+}
+
+p {
+    text-align: right;
+}

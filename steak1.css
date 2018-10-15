@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2  {
+    text-align: center;
+    color: black;
+}
+
+p{
+    text-align: center;
+    color: black;
+}
+
+.jumbotron {
+    background-image: url(steak.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body {
+    background-color: tan;
+}
+
+table {
+    color: black;
+}
+
+th {
+    text-align: center;
+}
+
+p {
+    text-align: right;
+}
